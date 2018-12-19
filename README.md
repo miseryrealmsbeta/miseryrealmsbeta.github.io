@@ -2,7 +2,7 @@
 [![Play Now](images.png)](https://miseryrealmsbeta.github.io/webclient/dr)
 
 ## Join our Discord!
-Join [Here](https://discord.gg/uaH2FZk)
+<iframe src="https://discordapp.com/widget?id=283075720324972544&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 ---
 
