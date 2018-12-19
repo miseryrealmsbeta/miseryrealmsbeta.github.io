@@ -1,5 +1,5 @@
 # Play Now!
-[![Play Now](images.png)](https://miseryrealmsbeta.github.io/webclient/dr)
+[![Play Now](images.png)](https://miseryrealmsbeta.github.io/webclient/production)
 
 ## Join our Discord!
 <iframe src="https://discordapp.com/widget?id=283075720324972544&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
